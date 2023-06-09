@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: Book
+      host: KapilMongoDB
+      port: 27017
+      
